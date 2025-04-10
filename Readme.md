@@ -3,7 +3,7 @@
 This Tsg will guide you how you can see and analyze the relevant logs from azure monitor ICM.
 
 ## Example ICM
-[IcM 6111045454 ](https://docs.docker.com/desktop/troubleshoot-and-support/support/#how-is-personal-diagnostic-data-handled-in-docker-desktop) Azure Monitor Alert Fired : Public NexGRID Container App Failures
+[IcM 6111045454 ](https://docs.docker.com/desktop/troubleshoot-and-support/support/#how-is-personal-diagnostic-data-handled-in-docker-desktop) : Azure Monitor Alert Fired : Public NexGRID Container App Failures
 
 If you will come across such ICMs you can follow the below steps : 
 
