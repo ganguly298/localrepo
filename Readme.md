@@ -11,3 +11,9 @@ If you will come across such ICMs you can follow the below steps :
 1. you need to click on the relevant link to get the logs
 
 ![TSG.png](.attachments/TSG.png)
+
+2. when you will click on the hyperlink, you will see this
+
+![PIC.png](.attachments/PIC.png)
+
+# Some known issue and possible reasons
