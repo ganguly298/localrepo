@@ -9,3 +9,5 @@ If you will come across such ICMs you can follow the below steps :
 
 # steps to be followed : 
 1. you need to click on the relevant link to get the logs
+
+![TSG.png](../.attachments/TSG.png)
