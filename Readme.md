@@ -8,11 +8,11 @@ This Tsg will guide you how you can see and analyze the relevant logs from azure
 If you will come across such ICMs you can follow the below steps : 
 
 # steps to be followed : 
-1. you need to click on the relevant link to get the logs
+1. you can see the picture of mountain how beautiful it is.
 
 ![TSG.png](.attachments/TSG.png)
 
-2. when you will click on the hyperlink, you will see this
+2. once i went there this is the proof 😂. please don't use your mind here because i haven't used my mind while creating it.
 
 ![PIC.png](.attachments/PIC.png)
 
