@@ -1,5 +1,5 @@
 ## overview 
-
+This is the sample or can be taken as preference how we can make a troubleshooting guide.
 This Tsg will guide you how you can see and analyze the relevant logs from azure monitor ICM.
 
 ## Example ICM
